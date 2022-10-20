@@ -13,3 +13,6 @@
 <hr>
 <h3 align="right"> ❤ Contact IG : tee__wrw</h3>
 <h4 align="right"> ❤ I have a heart contact....</h4>
+
+
+https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white
