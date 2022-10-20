@@ -8,8 +8,8 @@
 <hr>
 
 <img src="https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white" alt = 'badge' />
+<h3 align="left"> 156748384</h3>
 
-<h3 align="left"> 🐸 Mxttxs.</h3>
 <p align='center'> <samp> Success will not come without action. 🐸 Tomorrow must be better.</samp></p>
 <hr>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KuR0uSaGi&show_icons=true&locale=en&theme=tokyonight" alt="KuR0uSaGi" /></p>
