@@ -7,8 +7,8 @@
 
 <hr>
 
-<img src="https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white" alt = 'badge' />
-<h2 align="left"> 156748384</h2>
+<img src="https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white" alt = 'badge' <h2 align="left"> 156748384</h2> />
+
 
 <p align='center'> <samp> Success will not come without action. 🐸 Tomorrow must be better.</samp></p>
 <hr>
