@@ -6,6 +6,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KuR0uSaGi&layout=compact&theme=tokyonight)](https://github.com/KuR0uSaGi/github-readme-stats)
 
 <hr>
+
+https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white
+
 <h3 align="left"> 🐸 Mxttxs.</h3>
 <p align='center'> <samp> Success will not come without action. 🐸 Tomorrow must be better.</samp></p>
 <hr>
@@ -15,4 +18,4 @@
 <h4 align="right"> ❤ I have a heart contact....</h4>
 
 
-https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white
+
