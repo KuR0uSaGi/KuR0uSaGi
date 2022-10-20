@@ -15,11 +15,12 @@
 <hr>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KuR0uSaGi&show_icons=true&locale=en&theme=tokyonight" alt="KuR0uSaGi" /></p>
 <hr>
-<h3 align="right"> ❤ Contact IG : tee__wrw</h3>
-<h4 align="right"> ❤ I have a heart contact....</h4>
+
 
 
 ##SOCIAL
-facebook (https://www.facebook.com/profile.php?id=100000876211487)
+
+facebook (https://www.facebook.com/profile.php?id=100000876211487)<br>
+instagram (https://www.instagram.com/tee__wrw/)
 
 
